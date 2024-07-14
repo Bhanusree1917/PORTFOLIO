@@ -1,6 +1,7 @@
 # Bhanusree Chavvakula's Portfolio
 
-![Profile Picture]("C:\Users\19012\Downloads\BEEF4099-C7FC-4E95-B0D4-DC2AAD722539.jpeg".jpg)
+![Profile Picture](![IMG_2897](https://github.com/user-attachments/assets/0834032e-a72e-4e66-9768-436ac80726e6)
+.jpg)
 
 ## About
 
